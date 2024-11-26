@@ -1,4 +1,16 @@
 .contact-section h2 {
     text-align: center;
-    
+    padding-top: 50px;
+}
+
+.socials {
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.reseau {
+    border: 1px solid red;
+    padding: 200px 150px;
 }

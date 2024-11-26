@@ -1,0 +1,9 @@
+.end {
+    text-align: center;
+    font-style: italic;
+}
+
+footer {
+    background-color: grey;
+    padding: 15px 0;
+}
